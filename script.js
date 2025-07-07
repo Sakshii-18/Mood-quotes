@@ -42,13 +42,13 @@ const moodQuotes = {
   ]
 };
 
-// 2. When a button is clicked
+
 const buttons = document.querySelectorAll("button");
 const quoteBox = document.getElementById("quote-box");
 
 buttons.forEach(button => {
   button.addEventListener("click", () => {
-    const mood = button.value; // gets value like 'happy', 'sad'
+    const mood = button.value; 
     const quotes = moodQuotes[mood];
     if (quotes) {
       const randomIndex = Math.floor(Math.random() * quotes.length);
