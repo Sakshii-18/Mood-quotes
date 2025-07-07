@@ -20,7 +20,7 @@ This is one of my first mini projects. It was created using HTML, CSS, and JavaS
 ## Live Demo
 
 You can try the project here:  
-[https://sakshii-18.github.io/mood-quotes/](https://sakshii-18.github.io/mood-quotes/)
+[https://sakshii-18.github.io/mood-quotes/](https://sakshii-18.github.io/Mood-quotes/)
 
 ## What I Learned
 
