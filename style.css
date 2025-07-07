@@ -1,0 +1,45 @@
+body
+{
+    font-family :'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: lightpink;
+    padding: 20px;
+    background-image: -moz-element();
+}
+
+h1
+    {
+        color: darkslateblue;
+        
+    }
+
+    h2{
+        color: crimson;
+        font-style: italic;
+    }
+
+.moodbuttons button
+    {
+        margin : 10px;
+        padding: 5px 10px;
+        font-size: 18px;
+        cursor: pointer;
+        transition: 0.3s;
+
+    }
+
+#quote-box
+    {
+        margin:10px;
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+        color: rgb(212, 45, 101);
+        font-size: 30px;
+    }
+
+.quote-text
+    {
+        margin:10px;
+        font-style: italic ;
+        color: darkslateblue;
+        font-size: 30px;
+    }
