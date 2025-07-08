@@ -1,4 +1,4 @@
-# Mood Quotes
+# Mood Quotes[mini project]
 
 Mood Quotes is a simple web-based project where users can select their mood and receive a matching motivational quote.
 
